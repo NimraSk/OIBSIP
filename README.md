@@ -1,2 +1,1 @@
-# OIBSIP
-data science internship at OASIS INFOBYTE
+# Data Science projects done by me
